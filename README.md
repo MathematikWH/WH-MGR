@@ -1,6 +1,6 @@
 [![JupyterLite](https://jupyterlite.readthedocs.io/en/stable/_static/wordmark-dark.svg)](https://mathematikwh.github.io/WH-MGR/lab/index.html)
 
-# GitHub Repository zur Veranstaltung Mathematische grundlagen (MGR)
+# GitHub Repository zur Veranstaltung Mathematische Grundlagen (MGR)
 
 In diesem Repository finden Sie Jupyter-Notebooks, die Sie im Rahmen dieser Veranstaltung bearbeiten sollen. Diese sind thematisch unterteilt und für die meisten Themen gibt es auch ein Anwendungs-Notebook. Hierbei werden die behandelten Themen auf ein praktisches Beispiel bezogen.
 
